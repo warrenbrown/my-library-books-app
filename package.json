@@ -1,0 +1,19 @@
+{
+  "name": "my-library-books-app",
+  "version": "1.0.0",
+  "description": "My library of books app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenbrown/my-library-books-app.git"
+  },
+  "author": "Warren Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrenbrown/my-library-books-app/issues"
+  },
+  "homepage": "https://github.com/warrenbrown/my-library-books-app#readme"
+}
